@@ -1,0 +1,7 @@
+[2026-10-28T13:01:18Z] === AST ITERATION 1 START | repo=databrickslabs/migrate-ip-acls sha=f07a21a5 ===
+[2026-10-28T13:01:18Z] [iter=1] PHASE START: ast repo=databrickslabs/migrate-ip-acls sha=f07a21a5
+[2026-10-28T13:01:18Z] [iter=1] Building AST aggregate chunks
+[2026-10-28T13:01:50Z] [iter=1] AST chunks built count=1 triples=265129
+[2026-10-28T13:01:50Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/f07a21a57b5fabda23fa97ab63ea07fefadc2a94/.complete
+[2026-10-28T13:01:50Z] [iter=1] PHASE END: ast elapsed_s=32 elapsed_min=0.5
+[2026-10-28T13:01:50Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
