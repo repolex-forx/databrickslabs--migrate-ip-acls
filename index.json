@@ -1,0 +1,11 @@
+{
+  "org": "databrickslabs",
+  "repo": "migrate-ip-acls",
+  "versions": [
+    {
+      "commit": "f07a21a57b5fabda23fa97ab63ea07fefadc2a94",
+      "tag": "v0.2.2",
+      "parsed_at": "2026-10-28T13:02:40.376172+00:00"
+    }
+  ]
+}
